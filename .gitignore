@@ -1,0 +1,23 @@
+# Core dump files
+synthetic_data/core.*
+synthetic_data/core.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+logs*
